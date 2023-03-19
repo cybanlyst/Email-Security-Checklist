@@ -40,8 +40,10 @@ The key is to asking right questions to get right answers. Here you can read my 
   
   ### Publicly shared playbooks for email related incidents:
   https://gitlab.com/syntax-ir/playbooks/-/tree/main/IRP-Phishing
+  
   https://github.com/guardsight/gsvsoc_cirt-playbook-battle-cards
   
   ### Publicly shared Sigma rules to detect email related attack vectors:
   https://bradleyjkemp.dev/sigmadoc/tags/attack.t1566/
+  
   https://bradleyjkemp.dev/sigmadoc/tags/attack.t1566.001/
