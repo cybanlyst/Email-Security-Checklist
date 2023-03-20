@@ -34,7 +34,7 @@ The key is to asking right questions to get right answers. Here you can read my 
   
   ## Response/Remediation: Response and Remediation Actions for Email Related Incidents
   - Are you ready for disaster scenarios?
-  - Have you every tested capabilities of your security solutions?
+  - Have you ever tested capabilities of your security solutions?
   - Which actions should be taken if your environment compromised by attackers?
   
   
